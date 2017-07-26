@@ -1,0 +1,15 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+#graph {
+	width : 600px;
+	height: 400px;
+	margin: 20px auto;
+}
+.graph-title {
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	margin:50px 0 0;
+}
