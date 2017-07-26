@@ -12,7 +12,7 @@
 <p class="graph-title">折れ線グラフ</p>
 <div id="graph"></div>
 <script type="text/javascript">
-    document.addEventListener('DOMContentLoaded', function() {
+    $function() {
 
         (function basic(container) {
             var data = JSON.parse('<?php echo json_encode($data); ?>');
